@@ -11,7 +11,11 @@
     "url": "git+https://github.com/vazhinskaya/frontend-project-lvl1.git"
   },
   "author": "anastasiya",
+  "bin": {
+    "brain-games": "bin/brain-games.js"
+  },
   "license": "ISC",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/vazhinskaya/frontend-project-lvl1/issues"
   },
